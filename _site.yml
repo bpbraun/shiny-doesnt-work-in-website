@@ -1,0 +1,8 @@
+name: "202 Group"
+navbar:
+  title: "Website"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Untitled"
+      href: Untitled.html

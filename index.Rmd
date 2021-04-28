@@ -1,4 +1,5 @@
 ---
 pagetitle: "overview"
 output: html_document
+runtime: shiny
 ---

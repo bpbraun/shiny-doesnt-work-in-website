@@ -3,6 +3,6 @@ navbar:
   title: "Website"
   left:
     - text: "Overview"
-      href: index.html
+      href: index.Rmd
     - text: "Untitled"
-      href: Untitled.html
+      href: Untitled.Rmd
